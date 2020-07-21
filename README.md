@@ -1,7 +1,7 @@
 <!-- Please do not change this html logo with link -->
 <a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
-# INTRODUCTION
+# Dim an LED using PWM with PIC16F15244
 
 The 'pic16f15244-pwm-led-dim' code example uses the PIC16F15244 Curiosity Nano Development board to demonstrate how to use the PWM module to dim an LED.
 
@@ -10,7 +10,6 @@ The 'pic16f15244-pwm-led-dim' code example uses the PIC16F15244 Curiosity Nano D
 
 ## Related Documentation
 - [PIC16F15244 Product Page](https://www.microchip.com/wwwproducts/en/PIC16F15244)
-- [PIC16F15244 Curiosity Nano User Guide]()
 
 ## Software Used
 - MPLAB® X IDE 5.40 or newer [(microchip.com/mplab/mplab-x-ide)](http://www.microchip.com/mplab/mplab-x-ide)
@@ -60,4 +59,4 @@ When SW0 is pressed a fourth time, the program returns to the default configurat
 ![Flowchart](images/PWMDimFlowchart.png)
 
 ## Summary
-The 'pic16f15244-pwm-led-dim' code example highlights the use of the PWM module to change the brightness of an LED. 
+The 'pic16f15244-pwm-led-dim' code example highlights the use of the PWM module to change the brightness of an LED.
